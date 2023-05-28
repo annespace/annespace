@@ -6,7 +6,7 @@
   
 *I'm Anne.* </br>
 *Currently a 2nd year student studying software development and network engineering.* </br>
-*Feel free to browse through*
+*Feel free to browse through.*
 
 ###### I like small animals🦨, funny gifs🙊, and progress🏃🏻‍♀️.
 
