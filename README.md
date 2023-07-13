@@ -4,7 +4,7 @@
 
 #### Welcome to my page!
   
-*I'm Anne.* </br>
+*I'm Anne. 🇰🇷 * </br>
 *Currently a 2nd year student studying software development and network engineering.* </br>
 *Feel free to browse through.*
 
